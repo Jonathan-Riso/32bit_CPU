@@ -1,2 +1,2 @@
 # 32bit_CPU
-CPU built for COEN316
+CPU built using MIPS structure in VHDL.
