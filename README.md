@@ -3,7 +3,7 @@ Repo for all the compoenents of a simple 32 bit CPU built according to the MIPS 
 
 ## Description
 
-A simple CPU written in VHDL that contains an ALU, data_cache, next_address, program calculator, sign extend, and registers. You can view the individual components in the `CPU` tab and the integration of all components in `CPU.vhd`
+A simple CPU written in VHDL that contains an ALU, data cache, next address register, program calculator, sign extend, and registers. You can view the individual components in the `CPU` tab and the integration of all components in `CPU.vhd`
 
 ## Known Issues
 
